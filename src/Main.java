@@ -14,7 +14,7 @@ public class Main {
         curso2.setDescricao("descrição  ");
         curso2.setCargahoraria(4);
 
-        Conteudo conteudo = new Curso(); //polimorfismo tudo que tem em conteudo tem em curso, mas nem tudo o que tem em curso tem em conteudo
+        //Conteudo conteudo = new Curso(); //polimorfismo tudo que tem em conteudo tem em curso, mas nem tudo o que tem em curso tem em conteudo
 
         Mentoria mentoria = new Mentoria();
         mentoria.setTitulo("Mentoria de Java");
